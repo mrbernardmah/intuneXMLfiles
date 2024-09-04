@@ -1,0 +1,9 @@
+{
+	"LastUpdate": "2023-08-20 15:35:50Z",
+	"Application": [{
+		"Name": "McAfee",
+		"Version": "*",
+		"Type": "programs",
+		"SilentArg": "/uninstall /s"
+	}]
+}
